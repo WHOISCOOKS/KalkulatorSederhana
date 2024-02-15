@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Kalkulator Sederhana</string>
+
+    <array name="pilihan_angka">
+        <item>Tambah</item>
+        <item>Kurang</item>
+        <item>Kali</item>
+        <item>Bagi</item>
+            </array>
+
+</resources>
